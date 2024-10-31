@@ -14,7 +14,7 @@ Este repositório contém uma coleção de exercícios e projetos que desenvolvi
 ## Como Usar
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seuusuario/nomerepositorio.git
+    git clone https://github.com/gabrielti/logica_programacao_C
     ```
 2. Compile e execute os códigos conforme as instruções em cada pasta.
 
